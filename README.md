@@ -33,7 +33,8 @@ It demonstrates my skills in building clean, structured, and visually interactiv
 )
 
 ### 🖥️ Dashboard View 2
-![Dashboard 2](screenshots/dashboard-2.png)
+![Dashboard 2](screenshots/<img width="1881" height="995" alt="Screenshot 2026-04-25 195543" src="https://github.com/user-attachments/assets/0e2f5f26-6785-4450-9f40-32852be7a232" />
+)
 
 ---
 
