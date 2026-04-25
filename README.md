@@ -29,7 +29,8 @@ It demonstrates my skills in building clean, structured, and visually interactiv
 ## 📷 Project Preview
 
 ### 🖥️ Dashboard View 1
-![Dashboard 1](screenshots/dashboard-1.png)
+![Dashboard 1](screenshots/<img width="1881" height="1029" alt="Screenshot 2026-04-25 195524" src="https://github.com/user-attachments/assets/1b544edb-5202-41ed-824c-fe515b552872" />
+)
 
 ### 🖥️ Dashboard View 2
 ![Dashboard 2](screenshots/dashboard-2.png)
